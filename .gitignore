@@ -13,3 +13,4 @@ cmake-build-*
 /data_embed/*.out
 /src/TTGO_T-Beam_LoRa_APRS.ino.cpp
 workspace.code-workspace
+.DS_Store
